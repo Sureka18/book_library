@@ -1,0 +1,22 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+#parent{  
+    width: auto;  
+    text-align: center;  
+    padding: 15px;  
+    border: 3px solid red;  
+    } 
+.img1{
+    overflow: hidden;
+    position: absolute;
+}
+.for{
+    width: 100%;
+    margin-bottom: 40%;
+    position: relative;
+    text-align: center;
+    top: 350px;
+    font-size: xx-large;
+}
